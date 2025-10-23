@@ -1,0 +1,7 @@
+{
+  "name": "Meta Humanos Running",
+  "description": "An application that combines running, community, physical performance, and consciousness expansion with a neurotech aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
